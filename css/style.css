@@ -3263,7 +3263,7 @@ p {
   text-transform: none;
   line-height: 1.7;
   letter-spacing: 0;
-  color: #777777;
+  color: #000000;
   font-family: "Poppins", sans-serif; }
 
 ul.bullets {
@@ -8350,7 +8350,7 @@ div.dataTables_wrapper div.dataTables_length select {
   .p-cb.cb-text .cb-content {
     font-size: 12px; }
     .p-cb.cb-text .cb-content p {
-      color: #777777;
+      color: #000000;
       margin-bottom: 0; }
   .p-cb.cb-text:hover {
     box-shadow: 0 6px 38px rgba(0, 0, 0, 0.05); }
@@ -12789,7 +12789,7 @@ select {
   letter-spacing: 0.04em;
   font-weight: 400;
   margin-bottom: 4px;
-  color: #777777; }
+  color: #000000; }
 
 .form-inline button {
   margin: 0px; }
