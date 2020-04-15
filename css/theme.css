@@ -368,15 +368,15 @@ Scroll top
   background-color: #6DBC86; }
 
 .fc-event-primary.fc-event {
-  background-color: #2A3842;
-  border-color: #2A3842; }
+  background-color: #6DBC86;
+  border-color: #6DBC86; }
 
 .icon-set-container .row > [class^="col-"] {
-  color: #2A3842; }
+  color: #6DBC86; }
   .icon-set-container .row > [class^="col-"]:hover {
-    background-color: #2A3842; }
+    background-color: #6DBC86; }
     .icon-set-container .row > [class^="col-"]:hover .icon-holder {
-      color: #2A3842; }
+      color: #6DBC86; }
 
 /* ----------------------------------------------------------------
     Forum
