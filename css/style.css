@@ -6885,7 +6885,7 @@ Helpers
   .dark #footer .copyright-content,
   #footer.inverted .copyright-content,
   #footer.dark .copyright-content {
-    background-color: #1E1E1E; }
+    background-color: #2A3842; }
 
 /*  Widgets */
 /* ----------------------------------------------------------------
@@ -8689,7 +8689,7 @@ div.dataTables_wrapper div.dataTables_length select {
     border: 0;
     vertical-align: middle;
     line-height: 0; }
-  .daterangepicker thead .fa.fa-chevron-left, .daterangepicker thead .fa.fa-chevron-right {
+  .daterangepicker thead .fa.fa-icon-chevron-up-left, .daterangepicker thead .fa.fa-chevron-right {
     display: inline-block;
     font: normal normal normal 16px/1 LineAwesome;
     font-size: inherit;
@@ -10518,7 +10518,7 @@ i:not(.fa):not(.fab):not(.far):not(.fas) {
 .icon-chevrons-right:before {
   content: "\e934"; }
 
-.icon-chevrons-up:before {
+.icon-icon-chevron-ups-up:before {
   content: "\e935"; }
 
 .icon-chrome:before {
