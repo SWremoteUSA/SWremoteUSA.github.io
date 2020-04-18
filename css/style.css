@@ -9205,7 +9205,7 @@ a.btn:not([href]):not([tabindex]) {
     a.btn:not([href]):not([tabindex]).btn-light.active {
       border-color: #28A8E0;
       background-color: #28A8E0;
-      color: #4c5667; }
+      color: #ffffff; }
     button.btn.btn-light.btn-outline,
     .btn:not(.close):not(.mfp-close).btn-light.btn-outline,
     a.btn:not([href]):not([tabindex]).btn-light.btn-outline {
