@@ -9203,8 +9203,8 @@ a.btn:not([href]):not([tabindex]) {
     a.btn:not([href]):not([tabindex]).btn-light:focus,
     a.btn:not([href]):not([tabindex]).btn-light:active,
     a.btn:not([href]):not([tabindex]).btn-light.active {
-      border-color: #28A8E0;
-      background-color: #28A8E0;
+      border-color: #6DBC86;
+      background-color: #6DBC86;
       color: #ffffff; }
     button.btn.btn-light.btn-outline,
     .btn:not(.close):not(.mfp-close).btn-light.btn-outline,
