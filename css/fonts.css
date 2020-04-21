@@ -18,12 +18,12 @@
 /*Body*/
 body {
 	font-size: 1em;
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Paragraphs*/
 p {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Headings*/
@@ -39,12 +39,12 @@ h6,
 .h4,
 .h5,
 .h6 {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Main Menu*/
 #mainMenu nav>ul>li>a {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 12px;
 	font-weight: 600;
 	letter-spacing: 0.6px;
@@ -53,51 +53,51 @@ h6,
 #mainMenu nav>ul>li .dropdown-menu>li>a,
 #mainMenu nav>ul>li .dropdown-menu>li>span,
 #mainMenu nav>ul>li .dropdown-menu>li [class*="col-"]>ul>li>a {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 #mainMenu nav>ul>li.mega-menu-item .mega-menu-content .mega-menu-title {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 13px;
 	font-weight: 600;
 }
 
 .header-extras>ul>li>a:not(.btn),
 .header-extras>ul>li .topbar-dropdown>.title {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 12px;
 	font-weight: 700;
 }
 
 /*Page Menu*/
 .page-menu nav>ul>li {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 .page-menu nav>ul>li .dropdown-menu {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Sidebar Menu*/
 .sidebar-menu {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Buttons*/
 button,
 a.btn:not([href]):not([tabindex]),
 .btn {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*slider*/
 .inspiro-slider .slide .slide-captions .strong {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 /*Page Title*/
 #page-title .page-title>h1 {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 44px;
 	line-height: 56px;
 	font-weight: 400;
@@ -107,16 +107,16 @@ a.btn:not([href]):not([tabindex]),
 #footer {
 	font-size: 14px;
 	font-weight: 400;
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 #footer p {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 }
 
 #footer .widget .widget-title,
 #footer .widget h4 {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-weight: 600;
@@ -124,6 +124,6 @@ a.btn:not([href]):not([tabindex]),
 
 #footer .widget .widget-title ul li a,
 #footer .widget h4 ul li a {
-	font-family: "montserrat", "Helvetica", "Arial", sans-serif;
+	font-family: "Montserrat";
 	font-size: 15px;
 }
