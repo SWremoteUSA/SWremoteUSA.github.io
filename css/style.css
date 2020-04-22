@@ -29,6 +29,12 @@ body .container-wide {
   margin: 0 auto;
   padding: 0 60px; }
 
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -12px;
+  margin-left: -12px; }
+
 @media (max-width: 1024px) {
   #wrapper,
   .body-inner {
